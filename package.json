@@ -1,0 +1,20 @@
+{
+  "name": "sorting-algorithms",
+  "version": "1.0.0",
+  "description": "",
+  "type": "commonjs",
+  "main": "bubble.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/juanpedroleiva/sorting-algorithms.git"
+  },
+  "author": "Juan Leiva",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/juanpedroleiva/sorting-algorithms/issues"
+  },
+  "homepage": "https://github.com/juanpedroleiva/sorting-algorithms#readme"
+}
